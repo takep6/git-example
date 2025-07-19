@@ -54,7 +54,14 @@ class MainApp:
 
 
 if __name__ == "__main__":
+    # 追加テスト
+    # ココに文章を追加したよ
+    # devだよ～
     # これはもう一つのgit stash
+<<<<<<< HEAD
+=======
+    # ちょっと失礼
+>>>>>>> dev
     # 先に機能を追加したから取り入れてね！
     app = MainApp()
     app.run()
