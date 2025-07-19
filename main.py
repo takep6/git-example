@@ -55,5 +55,6 @@ class MainApp:
 
 if __name__ == "__main__":
     # これはもう一つのgit stash
+    # 先に機能を追加したから取り入れてね！
     app = MainApp()
     app.run()
