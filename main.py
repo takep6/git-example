@@ -72,5 +72,6 @@ if __name__ == "__main__":
     # feature追加
     # feature追加
     # feature追加
+    print("hello main")
     app = MainApp()
     app.run()
