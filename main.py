@@ -66,8 +66,14 @@ if __name__ == "__main__":
     # 追加
     # 追加
     # 追加
+<<<<<<< HEAD
     # main追加
     # main追加
     # main追加
+=======
+    # feature追加
+    # feature追加
+    # feature追加
+>>>>>>> feature
     app = MainApp()
     app.run()
