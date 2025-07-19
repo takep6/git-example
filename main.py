@@ -56,5 +56,6 @@ class MainApp:
 if __name__ == "__main__":
     # 追加テスト
     # ココに文章を追加したよ
+    # devだよ～
     app = MainApp()
     app.run()
