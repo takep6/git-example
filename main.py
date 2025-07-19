@@ -55,5 +55,6 @@ class MainApp:
 
 if __name__ == "__main__":
     # これはもう一つのgit stash
+    # ちょっと失礼
     app = MainApp()
     app.run()
