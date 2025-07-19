@@ -66,5 +66,6 @@ if __name__ == "__main__":
     # 追加
     # 追加
     # 追加
+    # main追加
     app = MainApp()
     app.run()
