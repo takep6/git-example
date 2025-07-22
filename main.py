@@ -77,6 +77,7 @@ if __name__ == "__main__":
     # feature追加
     # feature追加
     # feature追加
+    # 新しいブランチで追加したつもりだった1
     print("hello main")
     app = MainApp()
     app.run()
