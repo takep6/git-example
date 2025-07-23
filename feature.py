@@ -9,9 +9,6 @@ def bow():
     print("Bow!")
 
 
-gh issue create - t "Implement fizzbuzz, add, and sub functions" - b "Implement the following functions in feature.py: fizzbuzz, add, sub"
-
-
 def fizzbuzz(n):
     for i in range(1, n + 1):
         if i % 15 == 0:
@@ -32,8 +29,18 @@ def sub(a, b):
     return a - b
 
 
+def mul(a, b):
+    return a * b
+
+
+def divide(a, b):
+    return a / b
+
+
 if __name__ == "__main__":
     fizzbuzz(20)
     print(add(3, 5))
     print(sub(10, 4))
+    print(mul(2, 3))
+    print(divide(10, 2))
     print("let's feature branch!")
