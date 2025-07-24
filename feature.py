@@ -37,6 +37,10 @@ def divide(a, b):
     return a / b
 
 
+def mod():
+    pass
+
+
 if __name__ == "__main__":
     fizzbuzz(20)
     print(add(3, 5))
