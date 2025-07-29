@@ -7,3 +7,6 @@ def rectangle():
 
 def test_area(rectangle):
     assert rectangle.area() == 12
+
+def test_area2(rectangle):
+    assert rectangle.area() == 1
