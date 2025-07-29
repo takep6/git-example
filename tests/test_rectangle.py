@@ -1,11 +1,12 @@
 import pytest
 from rectangle import Rectangle
-from Square import Square
+from square import Square
 
 @pytest.fixture
 def rectangle():
     return Rectangle(3, 4)
 
+@pytest.fixture
 def square():
     return Square(3)
 
